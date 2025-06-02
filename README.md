@@ -387,7 +387,7 @@
                 };
 
 
-                const apiKey = "VOTRE_CLE_API"; // Remplacez par votre clé API Gemini
+                const apiKey = "AIzaSyDgA-Vaocc5NQ1D9galW65oCa6KLaVeuEI"; // Remplacez par votre clé API Gemini
                 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
 
